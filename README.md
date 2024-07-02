@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Saiful
 ![Banner](
-https://i.ibb.co/mBScmmj/My-banner.png)
+My-banner-1.png)
 ## About Me
 
 I am a passionate full-stack developer with expertise in building dynamic and responsive web applications. My tech stack includes JavaScript, React, Tailwind CSS, Express.js, Node.js, and MongoDB. I am also expanding my skills in Next.js and TypeScript.
