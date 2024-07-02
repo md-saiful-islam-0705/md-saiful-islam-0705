@@ -16,22 +16,6 @@ I am a passionate full-stack developer with expertise in building dynamic and re
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 
-## Projects
-
-### 1. Project Name
-- **Description:** Brief description of the project.
-- **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB
-- **Repo:** [Project Repository Link](#)
-
-### 2. Project Name
-- **Description:** Brief description of the project.
-- **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB
-- **Repo:** [Project Repository Link](#)
-
-### 3. Project Name
-- **Description:** Brief description of the project.
-- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB
-- **Repo:** [Project Repository Link](#)
 
 ## GitHub Stats
 
